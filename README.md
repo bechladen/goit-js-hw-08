@@ -1,1 +1,1 @@
-# goit-js-hw-08
+This is my WOOLF JS Course HW#8
